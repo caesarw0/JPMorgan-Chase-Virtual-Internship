@@ -1,0 +1,9 @@
+[submodule "jpmc-task-1-file"]
+	path = jpmc-task-1-file
+	url = https://github.com/caesarw0/jpmc-task-1.git
+[submodule "jpmc-task-2-file"]
+	path = jpmc-task-2-file
+	url = https://github.com/caesarw0/jpmc-task-2.git
+[submodule "jpmc-task-3-file"]
+	path = jpmc-task-3-file
+	url = https://github.com/caesarw0/jpmc-task-3.git
